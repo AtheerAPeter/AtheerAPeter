@@ -1,6 +1,6 @@
 
 
-👋 Hi, I'm Atheer,a passionate full stack web & mobile apps developer from Iraq 🚀.
+👋 Hi, I'm Atheer, a passionate full stack web & mobile apps developer from Iraq 🚀.
 
 [![AtheerAPeter's github stats](https://github-readme-stats.vercel.app/api?username=atheerapeter&count_private=true&show_icons=true&theme=radical)](https://github.com/AtheerAPeter)
 
